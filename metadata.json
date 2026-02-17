@@ -1,0 +1,5 @@
+{
+  "name": "Copy of  ChartSense AI  5 : AI Analysis Assistant",
+  "description": "An AI-powered assistant that converts chart images into actionable technical analysis and trading recommendations using the Gemini API. Supports both detailed and real-time streaming analysis.",
+  "requestFramePermissions": []
+}
